@@ -4,6 +4,9 @@
 > [!IMPORTANT]
 > _MouseBrowsing_ allows mouse button navigation that would normally require the keyboard. _MouseBrowsing_ was created with _AutoHotKey_ (AHK).
 
+> [!TIP]
+> [List of hotkeys]()
+
 > [!NOTE]
 > _MouseBrowsing_ is originally designed for _Mozilla Firefox_ and mice with a back & forward button.
 
