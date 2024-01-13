@@ -13,7 +13,7 @@
 
 ## Specifications
 
-- Author: slipped <digit-0.slipped@icloud.com>
+- Author: Slipped <digit-0.slipped@icloud.com>
 - Program Version: `2.3`
 - AutoHotKey (AHK) Version: `2.x`
 - Language: `English`
