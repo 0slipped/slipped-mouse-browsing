@@ -28,7 +28,6 @@ XButton2 & XButton1::Send "^{f}"
 XButton2 & MButton::Send "^{h}"
 XButton2 & WheelUp::Send "^{Tab}"
 XButton2 & WheelDown::Send "^+{Tab}"
-```
 
 MButton & LButton::WinMaximize "A"
 MButton & RButton::WinRestore "A"
@@ -36,3 +35,4 @@ MButton & XButton1::WinMinimize "A"
 MButton & XButton2::Send "{f11}"
 MButton & WheelUp::AltTab
 MButton & WheelDown::ShiftAltTab
+```
