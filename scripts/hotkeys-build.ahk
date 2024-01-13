@@ -1,4 +1,4 @@
-﻿#Include Hotkey Library ; all hotkeys (folder)
+﻿#Include hotkeys ; all hotkeys (folder)
 
 #Include context.ahk
 #Include general.ahk
