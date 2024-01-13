@@ -1,3 +1,12 @@
+## 01/06/2024
+```
+the GitHub era begins.
+```
+## 01/06/2024
+```
+major adjustments made to hotkey prefixes.
+created "master.txt" to track all hotkeys.
+```
 ## 12/29/2023
 ```
 added shortcut for the delete key.
