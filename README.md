@@ -26,16 +26,16 @@
 
 - :file_folder: [old](old) 
 
-- :file_folder: [ref]()
-	- :memo: `CHANGELOG.md`[:key: List of Hotkeys](ref/MASTER.md)
+- :file_folder: [ref](ref)
+	- :memo: `CHANGELOG.md`[List of Hotkeys](ref/CHANGELOG.md)
 	- :camera: `icon.ico` []()
-	- :key: `MASTER.md` []()
+	- :key: `MASTER.md` [List of Hotkeys](ref/MASTER.md)
 
-- :file_folder: [scripts]()
+- :file_folder: [scripts](scripts)
 	- :memo: `hotkeys-build.ahk` []()
 	- :memo: `main-build.ahk` []()
 	- :memo: `rules-build.ahk` []()
 	- :file_folder: [hotkeys]()
 	- :file_folder: [rules]()
 
-- :memo: _README.md_
+- :memo: _README.md_ []()
