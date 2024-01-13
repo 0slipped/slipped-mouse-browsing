@@ -11,7 +11,7 @@
 
 ## Specifications
 
-- Author: `Boboy` <digit-0.slipped@icloud.com>
+- Author: <digit-0.slipped@icloud.com>
 - Program Version: `2.3`
 - AutoHotKey (AHK) Version: `2.x`
 - Language: `English`
