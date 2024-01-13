@@ -1,17 +1,26 @@
-# MouseBrowsing
+# README
 
-> [!IMPORTANT]
-> _MouseBrowsing_ allows mouse button navigation that would normally require the keyboard. _MouseBrowsing_ was created with _AutoHotKey_ (AHK).
+[About](README.md#about)
+
+[Specifications](README.md#specifications)
+
+[Legend](README.md#legend)
+
+## About
+
+_Mouse Browsing_ allows mouse button navigation that would normally require the keyboard. _Mouse Browsing_ was created with _AutoHotKey_ (AHK).
+
+- Author: [Slipped](https://github.com/0slipped)
+- Contact: <digit-0.slipped@icloud.com>
 
 > [!NOTE]
-> _MouseBrowsing_ is originally designed for _Mozilla Firefox_ and mice with a back & forward button.
+> _Mouse Browsing_ was originally designed for _Mozilla Firefox_ and mice with a back & forward button.
 
 > [!CAUTION]
-> _MouseBrowsing_ may also be used for other programs (at your own risk). If breaking occurs (glitched keys), then a _MouseBrowsing_ re-launch, keyboard reset, or computer restart may be necessary.
+> _Mouse Browsing_ may also be used for other programs (at your own risk). If breaking occurs (glitched keys), then a _Mouse Browsing_ re-launch, keyboard reset, or computer restart may be necessary.
 
 ## Specifications
 
-- Author: <digit-0.slipped@icloud.com>
 - Program Version: `2.3`
 - AutoHotKey (AHK) Version: `2.x`
 - Language: `English`
@@ -20,24 +29,24 @@
 - Keyboard hardware: `Apple Magic Keyboard (A2450)`
 - Mouse hardware: `Logitech G PRO X Superlight`
 - Script Editor: `Notepad++`
+- GitHub Writing and formatting syntax[^1].
 
-## Files
+## Legend
 
-1. _README.md_
-   
-2. _MouseBrowsing.exe_ `executable file`
+- :file_folder: old [(Old Files)](old) 
 
-3. [Resources] `miscellaneous files`
-	- _CHANGELOG.md_ `development progress` 
-	- _icon.ico_ `taskbar icon`
-	- _MASTER.md_ `master list of all hotkeys`
+- :file_folder: ref [(Reference Files)](ref)
+	- :memo: `CHANGELOG.md` [(Development History)](ref/CHANGELOG.md)
+	- :camera: `icon.ico` [(File/Taskbar Icon)](ref/icon.ico)
+	- :key: `MASTER.md` [(List of Hotkeys)](ref/MASTER.md)
 
-5. [Scripts] `script files`
-	- [Build] `hotkeys and rules`
-		- [Hotkey Library] `hotkeys`
-		- [Rule Library] `rules`
-		- _hotkeys.ahk_ `includes all hotkeys`
-		- _rules.ahk_ `includes all hotkeys`
-	- _main.ahk_ `compile file`
+- :file_folder: scripts [Script Files](scripts)
+	- :page_facing_up: `hotkeys-build.ahk` [Build Hotkeys](scripts/hotkeys-build.ahk)
+	- :page_facing_up: `main-build.ahk` [Main Build](scripts/main-build.ahk)
+	- :page_facing_up: `rules-build.ahk` [Build Rules](scripts/rules-build.ahk)
+	- :file_folder: hotkeys [Hotkey Files](scripts/hotkeys)
+	- :file_folder: rules [Rule Files](scripts/rules)
 
-6. [Old Files] `old scripts and resources`
+- :star: `README.md`
+
+[^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
