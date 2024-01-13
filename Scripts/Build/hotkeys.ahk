@@ -1,11 +1,4 @@
-﻿; ==================================================
-;
-;	MOUSEBROWSING
-;	HOTKEYS
-;
-; ==================================================
-
-#Include Hotkey Library ; all hotkeys (folder)
+﻿#Include Hotkey Library ; all hotkeys (folder)
 
 #Include context.ahk
 #Include general.ahk
@@ -16,5 +9,3 @@
 #Include zoom.ahk
 #Include media.ahk
 #Include native.ahk
-
-; ==================================================
