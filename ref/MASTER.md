@@ -1,5 +1,11 @@
 # Master list of all hotkeys.
----
+
+[Key](MASTER.md#key)
+
+[By Function](MASTER.md#by-function)
+
+[By Prefix](MASTER.md#by-prefix)
+
 ## Key
 ```
 LButton <-> Left click
