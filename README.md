@@ -4,9 +4,6 @@
 > [!IMPORTANT]
 > _MouseBrowsing_ allows mouse button navigation that would normally require the keyboard. _MouseBrowsing_ was created with _AutoHotKey_ (AHK).
 
-> [!TIP]
-> [List of hotkeys](ref/MASTER.md)
-
 > [!NOTE]
 > _MouseBrowsing_ is originally designed for _Mozilla Firefox_ and mice with a back & forward button.
 
@@ -27,18 +24,18 @@
 
 ## Files
 
-- :file_folder: old 
+- :file_folder: [old]() 
 
-- :file_folder: ref 
-	- :memo: `CHANGELOG.md`
-	- :camera: `icon.ico` 
-	- :memo: `MASTER.md`
+- :file_folder: [ref]()
+	- :memo: `CHANGELOG.md`[:key: List of Hotkeys](ref/MASTER.md)
+	- :camera: `icon.ico` []()
+	- :key: `MASTER.md` []()
 
-- :file_folder: scripts
-	- :memo: `hotkeys-build.ahk`
-	- :memo: `main-build.ahk`
-	- :memo: `rules-build.ahk`
-	- :file_folder: hotkeys
-	- :file_folder: rules
+- :file_folder: [scripts]()
+	- :memo: `hotkeys-build.ahk` []()
+	- :memo: `main-build.ahk` []()
+	- :memo: `rules-build.ahk` []()
+	- :file_folder: [hotkeys]()
+	- :file_folder: [rules]()
 
 - :memo: _README.md_
