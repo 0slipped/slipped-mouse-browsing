@@ -1,8 +1,8 @@
 # README
 
-[About](:star:)
-[Specifications]()
-[Legend]()
+[About](README.md#about)
+[Specifications](README.md#specifications)
+[Legend](README.md#legend)
 
 ## About
 
