@@ -2,6 +2,32 @@
 
 [January 13th, 2024](CHANGELOG.md#01132024)
 
+[January 6th, 2024](CHANGELOG.md#01062024)
+
+[December 29th, 2023](CHANGELOG.md#12292023)
+
+[December 16th, 2023](CHANGELOG.md#12162023)
+
+[December 9th, 2023](CHANGELOG.md#12092023)
+
+[December 3rd, 2023](CHANGELOG.md#12032023)
+
+[October 28th, 2023](CHANGELOG.md#10282023)
+
+[October 14th, 2023](CHANGELOG.md#10142023)
+
+[April 14th, 2023](CHANGELOG.md#04142023)
+
+[April 6th, 2023](CHANGELOG.md#04062023)
+
+[March 31st, 2023](CHANGELOG.md#03312023)
+
+[March 25th, 2023](CHANGELOG.md#03252023)
+
+[March 14th, 2023](CHANGELOG.md#03142023)
+
+[March 11th, 2023](CHANGELOG.md#03112023)
+
 ## 01/13/2024
 ```
 the GitHub era begins.
