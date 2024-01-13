@@ -1,5 +1,6 @@
 # MouseBrowsing
 
+
 > [!IMPORTANT]
 > _MouseBrowsing_ allows mouse button navigation that would normally require the keyboard. _MouseBrowsing_ was created with _AutoHotKey_ (AHK).
 
@@ -11,7 +12,7 @@
 
 ## Specifications
 
-- Author: <digit-0.slipped@icloud.com>
+- Author: slipped <digit-0.slipped@icloud.com>
 - Program Version: `2.3`
 - AutoHotKey (AHK) Version: `2.x`
 - Language: `English`
@@ -23,21 +24,18 @@
 
 ## Files
 
-1. _README.md_
-   
-2. _MouseBrowsing.exe_ `executable file`
+- :file_folder: old 
 
-3. [Resources] `miscellaneous files`
-	- _CHANGELOG.md_ `development progress` 
-	- _icon.ico_ `taskbar icon`
-	- _MASTER.md_ `master list of all hotkeys`
+- :file_folder: ref 
+	- :memo: `CHANGELOG.md`
+	- :camera: `icon.ico` 
+	- :memo: `MASTER.md`
 
-5. [Scripts] `script files`
-	- [Build] `hotkeys and rules`
-		- [Hotkey Library] `hotkeys`
-		- [Rule Library] `rules`
-		- _hotkeys.ahk_ `includes all hotkeys`
-		- _rules.ahk_ `includes all hotkeys`
-	- _main.ahk_ `compile file`
+- :file_folder: scripts
+	- :memo: `hotkeys-build.ahk`
+	- :memo: `main-build.ahk`
+	- :memo: `rules-build.ahk`
+	- :file_folder: hotkeys
+	- :file_folder: rules
 
-6. [Old Files] `old scripts and resources`
+- :memo: _README.md_
