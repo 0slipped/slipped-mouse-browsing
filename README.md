@@ -19,3 +19,11 @@ _MouseBrowsing_ allows mouse button navigation that would normally require the k
 - Mouse hardware used: `Logitech G PRO X Superlight`
 
 - Script Editor: Notepad++
+
+## Files
+
+- Resources
+	- _CHANGELOG.md_ 
+	- _icon.ico_
+	- _MASTER.md_
+- Scripts
