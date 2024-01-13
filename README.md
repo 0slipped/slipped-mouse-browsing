@@ -1,7 +1,7 @@
 # MouseBrowsing
 
 > [!IMPORTANT]
-> _MouseBrowsing_ allows mouse button navigation that would normally require the keyboard. 
+> _MouseBrowsing_ allows mouse button navigation that would normally require the keyboard. _MouseBrowsing_ was created with _AutoHotKey_ (AHK).
 
 > [!NOTE]
 > _MouseBrowsing_ is originally designed for _Mozilla Firefox_ and mice with a back & forward button.
@@ -24,12 +24,15 @@
 ## Files
 
 1. _README.md_
-2. _MouseBrowsing.exe_: **to run the program.**
-3. Resources
-	- _CHANGELOG.md_ 
-	- _icon.ico_
-	- _MASTER.md_
-4. Scripts
-   	- Hotkey Library
-   	- Rule Library
-	- main.ahk
+   
+2. _MouseBrowsing.exe_ `executable file`
+
+3. **Resources** `miscellaneous files`
+	- _CHANGELOG.md_ `development progress` 
+	- _icon.ico_ `taskbar icon`
+	- _MASTER.md_ `master list of all hotkeys`
+
+5. **Scripts** `script files`
+   	- **Hotkey Library** `hotkeys scripts`
+   	- **Rule Library** `rules scripts`
+	- _main.ahk_ `compiled`
