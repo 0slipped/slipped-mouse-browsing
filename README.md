@@ -1,12 +1,14 @@
 # README
 
 [About](README.md#about)
+
 [Specifications](README.md#specifications)
+
 [Legend](README.md#legend)
 
 ## About
 
-  _Mouse Browsing_ allows mouse button navigation that would normally require the keyboard. _Mouse Browsing_ was created with _AutoHotKey_ (AHK).
+_Mouse Browsing_ allows mouse button navigation that would normally require the keyboard. _Mouse Browsing_ was created with _AutoHotKey_ (AHK).
 
 - Author: [Slipped](https://github.com/0slipped)
 - Contact: <digit-0.slipped@icloud.com>
