@@ -1,0 +1,90 @@
+; ==================================================
+
+; Change log (versions and changes): . . .
+
+; ==================================================
+
+
+; . . . 12/03/2023
+	- hotkeys version 1.5.
+	- added shortcut for next window.
+	- added shortcuts for copy and paste (works now).
+
+; ==================================================
+
+; . . . 10/24/2023 - 10/28/2023.
+	- main version 1.8.
+	- hotkeys version 1.4.
+	- rules version 1.1 + 1.2.
+	- removed shortcuts for copy and paste.
+	- added shortcut for F11 (fullscreen).
+	- cleaned up files (simplify).
+	- updated README file with new information.
+	- removed custom tray icon rule.
+	- added shortcut to minimize the active window.
+	
+; ==================================================
+
+; . . . 10/14/2023.
+	- main version 1.7.
+	- hotkeys version 1.2 + 1.3.
+	- added shortcuts for copy and paste.
+	- cleaned up files.
+
+; ==================================================
+
+; . . . 04/06/2023.
+	- main version 1.6.
+	- added shortcuts for HOME and END.
+	- created "readme.txt" and "changelog.txt."
+	- cleaned up the main .ahk file.
+
+; ==================================================
+
+; . . . 04/06/2023.
+	- main version 1.5.
+	- hotkeys version 1.2.
+	- rules version 1.
+	- added custom taskbar tray icon.
+
+; ==================================================
+
+; . . . 03/31/2023.
+	- main version 1.4.
+	- hotkeys version 1.1.
+	- added shortcuts for zoom in/out.
+	- cleaned up some documentation.
+
+; ==================================================
+
+; . . . 03/25/2023.
+	- main version 1.3.
+	- hotkeys version 1.1.
+	- rules version 1.
+	- created external libraries (rules and hotkeys).
+	- added shortcuts for maximizing and restoring an active window.
+
+; ==================================================
+
+; . . . 03/25/2023.
+	- main version 1.2
+	- removed ALT + TAB navigation (buggy).
+	- added forced single instance and mouse hook.
+	- removed ProgramGroup, adjusted to one script exception (Notepad++).
+	- added shortcuts for PgDn/PgUp and WIN.
+	- reduced lines of code.
+
+; ==================================================
+
+; . . . 03/14/2023.
+	- main version 1.1.
+	- hotkeys version 1.0.
+	- added ALT + TAB navigation.
+
+; ==================================================
+
+; . . . 03/11/2023.
+	- main version 1.
+	- created main script.
+
+; ==================================================
