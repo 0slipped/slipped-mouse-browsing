@@ -1,3 +1,7 @@
+# CHANGELOG
+
+
+
 ## 01/13/2024
 ```
 the GitHub era begins.
@@ -50,7 +54,7 @@ added shortcuts for select all.
 added shortcuts for the Alt Tab Menu (so far so good).
 cleaned up files more.
 ```
-## 10/24/2023 - 10/28/2023
+## 10/28/2023
 ```
 main version 1.8.
 hotkeys version 1.4.
