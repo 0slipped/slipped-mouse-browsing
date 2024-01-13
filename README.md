@@ -39,3 +39,5 @@
 		- _hotkeys.ahk_ `includes all hotkeys`
 		- _rules.ahk_ `includes all hotkeys`
 	- _main.ahk_ `compile file`
+
+6. [Old Files] `old scripts and resources`
