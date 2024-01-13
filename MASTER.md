@@ -1,3 +1,6 @@
+# Master list of all hotkeys.
+
+```
 LButton & RButton::Send "{Del}"
 LButton & XButton1::Send "{End}"
 LButton & XButton2::Send "{Home}"
@@ -25,6 +28,7 @@ XButton2 & XButton1::Send "^{f}"
 XButton2 & MButton::Send "^{h}"
 XButton2 & WheelUp::Send "^{Tab}"
 XButton2 & WheelDown::Send "^+{Tab}"
+```
 
 MButton & LButton::WinMaximize "A"
 MButton & RButton::WinRestore "A"
