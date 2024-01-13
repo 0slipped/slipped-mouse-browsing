@@ -6,7 +6,7 @@ _MouseBrowsing_ allows mouse button navigation that would normally require the k
 
 ## Specifications
 
-- Author: `Boboy` [Contact](<digit-0.slipped@icloud.com>)
+- Author: `Boboy` <digit-0.slipped@icloud.com>
 
 - Program Version: `2.3`
 - AutoHotKey (AHK) Version: `2.x`
