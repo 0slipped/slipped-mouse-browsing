@@ -1,4 +1,4 @@
-# Master list of all hotkeys.
+# MASTER
 
 [Key](MASTER.md#key)
 
