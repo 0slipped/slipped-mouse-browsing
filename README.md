@@ -36,16 +36,16 @@ _Mouse Browsing_ allows mouse button navigation that would normally require the 
 - :file_folder: old [(Old Files)](old) 
 
 - :file_folder: ref [(Reference Files)](ref)
-	- :memo: `CHANGELOG.md` [Development History](ref/CHANGELOG.md)
-	- :camera: `icon.ico` [File/Taskbar Icon](ref/icon.ico)
-	- :key: `MASTER.md` [List of Hotkeys](ref/MASTER.md)
+	- :memo: `CHANGELOG.md` [(Development History)](ref/CHANGELOG.md)
+	- :camera: `icon.ico` [(File/Taskbar Icon)](ref/icon.ico)
+	- :key: `MASTER.md` [(List of Hotkeys)](ref/MASTER.md)
 
 - :file_folder: scripts [Script Files](scripts)
-	- :page_facing_up: `hotkeys-build.ahk` [Includes Hotkeys](scripts/hotkeys-build.ahk)
-	- :page_facing_up: `main-build.ahk` [Build Hotkeys and Rules](scripts/main-build.ahk)
-	- :page_facing_up: `rules-build.ahk` [Inludes Rules](scripts/rules-build.ahk)
-	- :file_folder: hotkeys [Hotkeys Files](scripts/hotkeys)
-	- :file_folder: rules [Rules Files](scripts/rules)
+	- :page_facing_up: `hotkeys-build.ahk` [Build Hotkeys](scripts/hotkeys-build.ahk)
+	- :page_facing_up: `main-build.ahk` [Main Build](scripts/main-build.ahk)
+	- :page_facing_up: `rules-build.ahk` [Build Rules](scripts/rules-build.ahk)
+	- :file_folder: hotkeys [Hotkey Files](scripts/hotkeys)
+	- :file_folder: rules [Rule Files](scripts/rules)
 
 - :star: `README.md`
 
