@@ -27,12 +27,15 @@
    
 2. _MouseBrowsing.exe_ `executable file`
 
-3. **Resources** `miscellaneous files`
+3. [Resources] `miscellaneous files`
 	- _CHANGELOG.md_ `development progress` 
 	- _icon.ico_ `taskbar icon`
 	- _MASTER.md_ `master list of all hotkeys`
 
-5. **Scripts** `script files`
-   	- **Hotkey Library** `hotkeys scripts`
-   	- **Rule Library** `rules scripts`
-	- _main.ahk_ `compiled`
+5. [Scripts] `script files`
+	- [Build] `hotkeys and rules`
+		- [Hotkey Library] `hotkeys`
+		- [Rule Library] `rules`
+		- _hotkeys.ahk_ `includes all hotkeys`
+		- _rules.ahk_ `includes all hotkeys`
+	- _main.ahk_ `compile file`
