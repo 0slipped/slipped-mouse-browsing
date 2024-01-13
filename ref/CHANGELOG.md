@@ -28,7 +28,7 @@
 
 [March 11th, 2023](CHANGELOG.md#03112023)
 
-## 01/13/2024
+### 01/13/2024
 ```
 the GitHub era begins.
 ```
