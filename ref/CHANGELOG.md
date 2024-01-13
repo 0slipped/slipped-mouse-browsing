@@ -1,6 +1,6 @@
 # CHANGELOG
 
-
+[January 13th, 2024](CHANGELOG.md#01132024)
 
 ## 01/13/2024
 ```
