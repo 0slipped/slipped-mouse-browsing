@@ -1,13 +1,12 @@
 ; ==================================================
 ;
-;	MOUSEBROWSING
-;	RULES
+;								MOUSEBROWSING
+;								NEXT TAB / PREVIOUS TAB
+;								VERSION 1
 ;
 ; ==================================================
 
-#Include Rule Library ; all rules (folder)
-
-#Include sif.ahk
-#Include hooks.ahk
+XButton2 & WheelUp::Send, ^{Tab}
+XButton2 & WheelDown::Send, ^+{Tab}
 
 ; ==================================================

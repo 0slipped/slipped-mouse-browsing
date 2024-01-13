@@ -11,7 +11,7 @@
 
 ## Specifications
 
-- Author: `Boboy` <digit-0.slipped@icloud.com>
+- Author: <digit-0.slipped@icloud.com>
 - Program Version: `2.3`
 - AutoHotKey (AHK) Version: `2.x`
 - Language: `English`
@@ -39,3 +39,5 @@
 		- _hotkeys.ahk_ `includes all hotkeys`
 		- _rules.ahk_ `includes all hotkeys`
 	- _main.ahk_ `compile file`
+
+6. [Old Files] `old scripts and resources`
