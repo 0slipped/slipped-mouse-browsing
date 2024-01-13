@@ -27,3 +27,4 @@ _MouseBrowsing_ allows mouse button navigation that would normally require the k
 	- _icon.ico_
 	- _MASTER.md_
 - Scripts
+
