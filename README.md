@@ -21,7 +21,7 @@ _Mouse Browsing_ allows mouse button navigation that would normally require the 
 
 ## Specifications
 
-- Program Version: `2.3`
+- Program Version: `2.5`
 - AutoHotKey (AHK) Version: `2.x`
 - Language: `English`
 - Internet Browser: `Mozilla Firefox (109.0+)`
