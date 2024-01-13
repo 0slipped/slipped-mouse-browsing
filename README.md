@@ -1,5 +1,9 @@
 # README
 
+[About](:star:)
+[Specifications]()
+[Legend]()
+
 ## About
 
   _Mouse Browsing_ allows mouse button navigation that would normally require the keyboard. _Mouse Browsing_ was created with _AutoHotKey_ (AHK).
