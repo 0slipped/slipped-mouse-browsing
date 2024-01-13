@@ -1,5 +1,6 @@
 # MouseBrowsing
 
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > [!IMPORTANT]
 > _MouseBrowsing_ allows mouse button navigation that would normally require the keyboard. _MouseBrowsing_ was created with _AutoHotKey_ (AHK).
@@ -22,20 +23,20 @@
 - Mouse hardware: `Logitech G PRO X Superlight`
 - Script Editor: `Notepad++`
 
-## Files
+## Files Legend
 
-- :file_folder: [old](old) 
+- :file_folder: old [Old Files](old) 
 
-- :file_folder: [ref](ref)
-	- :memo: `CHANGELOG.md`[List of Hotkeys](ref/CHANGELOG.md)
-	- :camera: `icon.ico` []()
+- :file_folder: ref [Reference Files](ref)
+	- :memo: `CHANGELOG.md` [Development History](ref/CHANGELOG.md)
+	- :camera: `icon.ico` [File/Taskbar Icoon](ref/icon.ico)
 	- :key: `MASTER.md` [List of Hotkeys](ref/MASTER.md)
 
-- :file_folder: [scripts](scripts)
-	- :memo: `hotkeys-build.ahk` []()
-	- :memo: `main-build.ahk` []()
-	- :memo: `rules-build.ahk` []()
-	- :file_folder: [hotkeys]()
-	- :file_folder: [rules]()
+- :file_folder: scripts [Script Files](scripts)
+	- :memo: `hotkeys-build.ahk` [Includes Hotkeys](scripts/hotkeys-build.ahk)
+	- :memo: `main-build.ahk` [Build Hotkeys and Rules](scripts/main-build.ahk)
+	- :memo: `rules-build.ahk` [Inludes Rules](scripts/rules-build.ahk)
+	- :file_folder: hotkeys [Hotkeys Files](scripts/hotkeys)
+	- :file_folder: rules [Rules Files](scripts/rules)
 
-- :memo: _README.md_ []()
+- :memo: `README.md`
