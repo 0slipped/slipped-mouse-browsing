@@ -1,5 +1,3 @@
-; https://www.autohotkey.com/docs/v2/lib/_HotIf.htm#ExVolume
-
 #HotIf MouseIsOver("ahk_class Shell_TrayWnd")
 	WheelUp::Send "{Volume_Up}"
 	WheelDown::Send "{Volume_Down}"

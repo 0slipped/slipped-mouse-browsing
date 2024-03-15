@@ -38,6 +38,8 @@ simplifying and adjusting scripts for better usability.
 removed the reference shortcuts.
 added a welcome message.
 removed the "old" folder.
+MouseBrowsing 3.
+GitHub version publishing.
 ```
 
 ### 01/13/2024
