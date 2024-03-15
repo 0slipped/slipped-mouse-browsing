@@ -28,6 +28,7 @@ Prefix <-> The first key to hold down
 ~LButton & XButton1 -> Select All
 ~LButton & MButton: -> Cut (CTRL + X)
 
+RButton & XButton1 -> Select All
 RButton & LButton -> Paste (CTRL + V)
 ```
 
@@ -40,6 +41,8 @@ XButton1 & WheelUp -> PgUp
 XButton1 & WheelDown -> PgDn
 
 ~LButton & XButton2 -> ENTER
+
+MButton & LButton -> Win (left)
 ```
 
 ### Media Controls
@@ -90,7 +93,7 @@ RButton & WheelDown -> Zoom out (CTRL + '-')
 
 ```
 ~LButton & RButton -> Copy (CTRL + C)
-~LButton & XButton1 -> Select All
+~LButton & XButton1 -> DELETE
 ~LButton & XButton2 -> ENTER
 ~LButton & MButton: -> Cut (CTRL + X)
 ```
@@ -101,9 +104,6 @@ RButton & WheelDown -> Zoom out (CTRL + '-')
 RButton & LButton -> Paste (CTRL + V)
 RButton & WheelUp -> Zoom in (CTRL + '+')
 RButton & WheelDown -> Zoom out (CTRL + '-')
-RButton & XButton1 -> Minimize window
-RButton & XButton2 -> Maximize window
-RButton & MButton -> Restore window
 ```
 
 ### Back Click (XButton1)
@@ -127,8 +127,12 @@ XButton2 & WheelDown -> Previous tab (CTRL + SHIFT + TAB)
 ### Scroll Wheel Click (MButton)
 
 ```
+MButton & LButton -> Win (left)
+MButton & RButton::WinRestore "A"
 MButton & WheelUp -> Move forward
 MButton & WheelDown -> Move backward
+MButton & XButton1::WinMinimize "A"
+MButton & XButton2::WinMaximize "A"
 ```
 
 ## Unused
@@ -137,14 +141,13 @@ MButton & WheelDown -> Move backward
 ~LButton & WheelUp
 ~LButton & WheelDown
 
+RButton & XButton1
+RButton & XButton2
+RButton & MButton
+
 XButton1 & XButton2
 XButton1 & MButton
 
 XButton2 & XButton1
 XButton2 & MButton
-
-MButton & LButton
-MButton & RButton
-MButton & XButton1
-MButton & XButton2
 ```

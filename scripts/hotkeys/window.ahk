@@ -1,3 +1,3 @@
-RButton & XButton1::WinMinimize "A"
-RButton & XButton2::WinMaximize "A"
-RButton & MButton::WinRestore "A"
+MButton & RButton::WinRestore "A"
+MButton & XButton1::WinMinimize "A"
+MButton & XButton2::WinMaximize "A"

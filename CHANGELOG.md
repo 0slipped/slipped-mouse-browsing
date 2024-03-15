@@ -36,6 +36,7 @@
 ```
 simplifying and adjusting scripts for better usability.
 removed the reference shortcuts.
+added a welcome message.
 ```
 
 ### 01/13/2024
