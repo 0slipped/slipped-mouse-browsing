@@ -1,6 +1,6 @@
-~LButton & RButton::Send "{Del}"
-~LButton & XButton1::Send "{End}"
-~LButton & XButton2::Send "{Home}"
-~LButton & MButton::Send "{Enter}"
-~LButton & WheelUp::Send "{PgUp}"
-~LButton & WheelDown::Send "{PgDn}"
+XButton1 & LButton::Send "{Home}"
+XButton1 & RButton::Send "{End}"
+XButton1 & WheelUp::Send "{PgUp}"
+XButton1 & WheelDown::Send "{PgDn}"
+
+~LButton & XButton2::Send "{Enter}"
