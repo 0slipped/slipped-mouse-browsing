@@ -1,5 +1,6 @@
 ﻿#Include hotkeys ; all hotkeys (folder)
 
+#Include native.ahk
 #Include context.ahk
 #Include general.ahk
 #Include tab.ahk
@@ -7,4 +8,3 @@
 #Include window.ahk
 #Include zoom.ahk
 #Include media.ahk
-#Include native.ahk

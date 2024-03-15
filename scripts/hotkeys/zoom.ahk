@@ -1,2 +1,2 @@
-RButton & WheelUp::Send "^{NumpadSub}"
-RButton & WheelDown::Send "^{NumpadAdd}"
+RButton & WheelUp::Send "^{NumpadAdd}"
+RButton & WheelDown::Send "^{NumpadSub}"
