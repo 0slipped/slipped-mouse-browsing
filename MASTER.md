@@ -76,9 +76,9 @@ XButton2 & WheelDown -> Previous tab (CTRL + SHIFT + TAB)
 ### Window
 
 ```
-RButton & XButton1 -> Minimize window
-RButton & XButton2 -> Maximize window
-RButton & MButton -> Restore window
+MButton & RButton -> Restore window
+MButton & XButton1 -> Minimize window
+MButton & XButton2 -> Maximize window
 ```
 
 ### Zoom
@@ -128,11 +128,11 @@ XButton2 & WheelDown -> Previous tab (CTRL + SHIFT + TAB)
 
 ```
 MButton & LButton -> Win (left)
-MButton & RButton::WinRestore "A"
+MButton & RButton -> Restore window
 MButton & WheelUp -> Move forward
 MButton & WheelDown -> Move backward
-MButton & XButton1::WinMinimize "A"
-MButton & XButton2::WinMaximize "A"
+MButton & XButton1 -> Minimize window
+MButton & XButton2 -> Maximize window
 ```
 
 ## Unused
