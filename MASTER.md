@@ -25,7 +25,6 @@ Prefix <-> The first key to hold down
 
 ```
 ~LButton & RButton -> Copy (CTRL + C)
-~LButton & XButton1 -> Select All
 ~LButton & MButton: -> Cut (CTRL + X)
 
 RButton & XButton1 -> Select All
@@ -40,6 +39,7 @@ XButton1 & RButton -> END
 XButton1 & WheelUp -> PgUp
 XButton1 & WheelDown -> PgDn
 
+~LButton & XButton1 -> DELETE
 ~LButton & XButton2 -> ENTER
 
 MButton & LButton -> Win (left)
