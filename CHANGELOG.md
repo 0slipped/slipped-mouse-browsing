@@ -1,5 +1,7 @@
 # CHANGELOG
 
+[March 15th, 2024](CHANGELOG.md#03152024)
+
 [January 13th, 2024](CHANGELOG.md#01132024)
 
 [January 6th, 2024](CHANGELOG.md#01062024)
@@ -29,6 +31,16 @@
 [March 11th, 2023](CHANGELOG.md#03112023)
 
 ## Dates
+
+### 03/15/2024
+```
+simplifying and adjusting scripts for better usability.
+removed the reference shortcuts.
+added a welcome message.
+removed the "old" folder.
+MouseBrowsing 3.
+GitHub version publishing.
+```
 
 ### 01/13/2024
 ```

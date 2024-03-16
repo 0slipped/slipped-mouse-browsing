@@ -1,4 +1,5 @@
-XButton1 & LButton::Send "^{v}"
-XButton1 & RButton::Send "^{c}"
-XButton1 & XButton2::Send "^{a}"
-XButton1 & MButton::Send "^{x}"
+~LButton & RButton::Send "^{c}"
+~LButton & MButton::Send "^{x}"
+
+RButton & XButton1::Send "^{a}"
+RButton & LButton::Send "^{v}"

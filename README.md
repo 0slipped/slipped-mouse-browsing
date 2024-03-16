@@ -1,49 +1,15 @@
 # README
 
-[About](README.md#about)
+**_MouseBrowsing_ allows you to perform keyboard-only navigation functions.**
 
-[Specifications](README.md#specifications)
+_Author_: [Slipped](https://github.com/0slipped)
 
-[Legend](README.md#legend)
-
-## About
-
-_Mouse Browsing_ allows mouse button navigation that would normally require the keyboard. _Mouse Browsing_ was created with _AutoHotKey_ (AHK).
-
-- Author: [Slipped](https://github.com/0slipped)
-- Contact: <digit-0.slipped@icloud.com>
+_Contact_: <digit-0.slipped@icloud.com>
 
 > [!NOTE]
-> _Mouse Browsing_ was originally designed for _Mozilla Firefox_ and mice with a back & forward button.
+> 📝 See _MASTER.md_ for a list of all the functions.
+>
+> 📝 See _CHANGELOG.md_ for a list of all the edits.
 
 > [!CAUTION]
-> _Mouse Browsing_ may also be used for other programs (at your own risk). If breaking occurs (glitched keys), then a _Mouse Browsing_ re-launch, keyboard reset, or computer restart may be necessary.
-
-## Specifications
-
-- Program Version: `2.5`
-- AutoHotKey (AHK) Version: `2.x`
-- Language: `English`
-- Internet Browser: `Mozilla Firefox (109.0+)`
-- Operating System: `Microsoft Windows 11`
-- Keyboard hardware: `Apple Magic Keyboard (A2450)`
-- Mouse hardware: `Logitech G PRO X Superlight`
-- Script Editor: `Notepad++`
-- GitHub Writing and formatting syntax[^1].
-
-## Legend
-
-- :file_folder: `old` [[Old Files]](old) 
-
-- :file_folder: `scripts` [[Script Files]](scripts)
-	- :page_facing_up: `hotkeys-build.ahk` [[Build Hotkeys]](scripts/hotkeys-build.ahk)
-	- :page_facing_up: `main-build.ahk` [[Main Build]](scripts/main-build.ahk)
-	- :page_facing_up: `rules-build.ahk` [[Build Rules]](scripts/rules-build.ahk)
-	- :file_folder: hotkeys [[Hotkey Files]](scripts/hotkeys)
-	- :file_folder: rules [[Rule Files]](scripts/rules)
-- :memo: `CHANGELOG.md` [[Development History]](CHANGELOG.md)
-- :camera: `icon.ico` [[File/Taskbar Icon]](icon.ico)
-- :key: `MASTER.md` [[List of Hotkeys]](MASTER.md)
-- :star: `README.md`
-
-[^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
+> _MouseBrowsing_ may also be used for other programs (at your own risk). If breaking occurs (glitched keys), then a _MouseBrowsing_ re-launch, keyboard reset, or computer restart may be necessary.
