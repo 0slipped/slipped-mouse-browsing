@@ -1,5 +1,7 @@
 # CHANGELOG
 
+[April 10th, 2024](CHANGELOG.md#04102024)
+
 [March 15th, 2024](CHANGELOG.md#03152024)
 
 [January 13th, 2024](CHANGELOG.md#01132024)
@@ -31,6 +33,11 @@
 [March 11th, 2023](CHANGELOG.md#03112023)
 
 ## Dates
+
+### 04/10/2024
+```
+added a kill switch for the application.
+```
 
 ### 03/15/2024
 ```
