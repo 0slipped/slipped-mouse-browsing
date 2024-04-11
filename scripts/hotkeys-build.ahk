@@ -1,5 +1,6 @@
 ﻿#Include hotkeys ; all hotkeys (folder)
 
+#Include kill.ahk
 #Include native.ahk
 #Include context.ahk
 #Include general.ahk
