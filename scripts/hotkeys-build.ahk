@@ -8,4 +8,3 @@
 #Include window.ahk
 #Include zoom.ahk
 #Include media.ahk
-#Include kill.ahk
